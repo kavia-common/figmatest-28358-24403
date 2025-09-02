@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps",
+    "working_directory": "/home/kavia/workspace/code-generation/figmatest-28358-24403/FigmaTestComponentLibrary"
+}
